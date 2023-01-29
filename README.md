@@ -15,10 +15,10 @@ Team Members: Liem Tran, Thomas Weber, Evan Pochtar, Anthony Brogni
 
 3.) In another terminal, navigate to the frontend directory and run the following commands to start the frontend:
 - npm install
-- npm start
+- npm run dev
 
 4.) To start the websocket for the live chatting feature, navigate to the chat directory and run the following command:
-- ___________
+- node index
 
 NOTE: Some API Keys such as the key for OpenAI's ChatGPT API have been removed from this public release for security reasons, and thus some features of this project (including Chat GPT integration) will probably not function unless you add your own API key to the code!
 
