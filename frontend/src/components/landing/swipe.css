@@ -1,0 +1,63 @@
+.box {
+    width: 400px;
+    max-width: 100%;
+    aspect-ratio: 1;
+    box-sizing: border-box;
+    margin: 32px auto;
+    padding: 8px;
+    background: rgba(150, 150, 150, 0.1);
+    border-radius: 10px;
+    box-shadow: 0 0 10px 0 rgba(255, 255, 255, 0.05);
+    animation-name: box-animate;
+    animation-duration: 0.1s;
+}
+
+@keyframes box-animate {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+.profile-operations {
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    margin: 32px auto;
+}
+
+.tutor-pills {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 8px;
+}
+.tutor-pill {
+    background: rgba(150, 150, 150, 0.3);
+    padding: 4px;
+    border-radius: 10px;
+}
+
+.matches {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+    justify-content: center;
+    align-items: center;
+    margin: 32px auto;
+    max-width: 600px;
+}
+.match {
+    font-size: 24px;
+    cursor: pointer;
+    border-radius: 10px;
+    background: rgba(150, 150, 150, 0.1);
+    padding: 8px;
+}
+
+.chat-picture {
+
+}

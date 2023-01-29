@@ -1,0 +1,32 @@
+.Primary {
+    padding: 20px;
+    font: '';
+    color: #5499AD;
+    display: 'flex';
+    background-color: #66C6BA;
+
+
+}
+
+.Secondary {
+    padding: 20px;
+    font: '';
+    color: #66C6BA;
+    display: 'flex';
+
+
+}
+
+.Tertiary {
+    padding: 20px;
+    font:'';
+    color: #A4E5D9; 
+    display: 'flex';
+}
+
+.Fourth {
+    padding: 20px;
+    font: '';
+    color: #D6F4E6;
+    display: 'flex';
+}

@@ -1,0 +1,15 @@
+:root {
+  font-family: sans-serif;
+  font-size: 16px;
+  color: white;
+  color-scheme: dark;
+}
+
+a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #535bf2;
+}

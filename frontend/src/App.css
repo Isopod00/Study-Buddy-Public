@@ -1,0 +1,109 @@
+#root { 
+    font-family: "Poppins";
+    text-align: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+}
+
+button {
+    border: 0px;
+    padding: 20px 50px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 21px;
+    transition: all 0.1s ease 0s;
+    outline: none;
+    background-color:rgb(83, 64, 255);
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    font-family: inherit;
+}
+button:focus {
+    outline: 2px solid white;
+}
+button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+input {
+    font-family: inherit;
+}
+
+.LoginButton {
+}
+.LogoutButton {
+    background-color: #ff4c4c;
+}
+
+:root {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(to top right, #1a191e, #140c59);
+}
+
+.create-buttons {
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+    margin: 32px 0;
+}
+.Student {
+}
+.Tutor {
+}
+
+.login-outer {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    text-align: right;
+}
+
+.logo {
+    position: absolute;
+    top: -10px;
+    left: 25px;
+    cursor: pointer;
+}
+
+@media (max-width: 1200px) {
+    .App {
+        margin-top: 128px;
+    }
+}
+
+h1 {
+    font-size: 54px;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    background-image: linear-gradient(to right, #4C97FF, #c45cd6, #9b1fe8);
+}
+
+.logout-outer {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.container {
+    
+}
+
+.filler {
+    margin: 64px auto;
+    text-align: left;
+    max-width: 600px;
+}

@@ -1,0 +1,31 @@
+.login-menu {
+    margin-top: 8px;
+    background: #202020;
+    border-radius: 10px;
+    display: flex;
+    gap: 8px;
+    padding: 8px;
+    flex-direction: column;
+    text-align: center;
+}
+
+.login-menu input {
+    border: none;
+    background: rgb(57, 57, 57);
+    margin: 8px 0px 8px;
+    appearance: none;
+    line-height: 21px;
+    padding: 7px 2px;
+    font-size: 16px;
+    color: rgb(255, 255, 255);
+    font-weight: 400;
+    border-radius: 5px;
+    width: 100%;
+    outline: none;
+    position: relative;
+    z-index: 2;
+}
+
+.login-menu input:focus {
+    outline: 2px solid white;
+}
