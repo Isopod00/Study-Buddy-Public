@@ -44,4 +44,4 @@ React
  - Improve our ranking algorithm to include the user’s location.
  - Improve the native chat feature. It would be neat for it to have real chat histories and the ability to notify the 
  - Implement measures to protect user safety and prevent predatory behaviors
- - 
+ 
