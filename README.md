@@ -7,13 +7,16 @@ Team Members: Liem Tran, Thomas Weber, Evan Pochtar, Anthony Brogni
 
 ## Instructions for Running this Project:
 1.) Clone this repository locally
+
 2.) Navigate to the backend directory and run the following commands to start the backend:
 - python manage.py makemigrations
 - python manage.py migrate
 - python manage.py runserver
+
 3.) In another terminal, navigate to the frontend directory and run the following commands to start the frontend:
 - npm install
 - npm start
+
 4.) To start the websocket for the live chatting feature, navigate to the chat directory and run the following command:
 - ___________
 
