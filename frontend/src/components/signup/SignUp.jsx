@@ -35,9 +35,9 @@ const SignUp = (props) => {
 
         <div className="sign-up-grid">
             <label htmlFor="first">First Name</label>
-            <input id="first" value={first} onChange={(e) => setFirst(e.target.value)} className="input" placeholder="Anthony" />
+            <input id="first" value={first} onChange={(e) => setFirst(e.target.value)} className="input" placeholder="John" />
             <label htmlFor="last">Last Name</label>
-            <input id="last" value={last} onChange={(e) => setLast(e.target.value)} className="input" placeholder="Brogni" />
+            <input id="last" value={last} onChange={(e) => setLast(e.target.value)} className="input" placeholder="Doe" />
             <label htmlFor="birth">Date of Birth</label>
             <input id="birth" value={birthday} onChange={(e) => setBirthday(e.target.value)} type="date" />
             <label htmlFor="email">Email</label>

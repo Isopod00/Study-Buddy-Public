@@ -35,7 +35,7 @@ def profCreate(numTest, student):
     "Edwards","Stewart","Flores","Morris","Nguyen","Murphy","Rivera","Cook","Rogers","Morgan","Peterson","Cooper","Reed","Bailey","Bell","Gomez","Kelly","Howard","Ward"]
     
     grade = random.choices(['EL', 'MI', 'HI', 'CO'])[0]
-    subjects = random.sample(['Reading','Writing','Literature','Arithmetic','Geometry','Algebra','Calculus','Physics','Biology','Chemistry','American_History','World_History', 'European_History'], k = random.randint(1,6))
+    subjects = random.sample(['Reading','Writing','Literature','Arithmetic','Geometry','Algebra','Calculus','Physics','Biology','Chemistry','American_History','World_History', 'European_History'], k = random.randint(1,3))
     subjects = " ".join(subjects)
     randMonth = random.randint(1,12)
     if randMonth < 10:

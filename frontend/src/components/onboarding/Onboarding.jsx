@@ -134,7 +134,7 @@ const StudentOnboarding = props => {
       {screen === 'LOCATION' && <>
         <h2>Study Buddy wants to know your location.</h2>
 
-        <input value={location} onChange={(e) => setLocation(e.target.value)} placeholder="E.x. Minneapolis, MN" className="loc"/>
+        <input value={location} onChange={(e) => setLocation(e.target.value)} placeholder="E.x. Minneapolis" className="loc"/>
 
         <button
           onClick={finishLocation}
