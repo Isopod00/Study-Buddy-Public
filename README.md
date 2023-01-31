@@ -28,6 +28,9 @@ An important facet of civic participation is volunteering and elevating everyone
 
 “Education is a public good as well as a personal one, and that civic duty and personal advantage go hand in hand.”
 
+[Devpost](https://devpost.com/software/studybuddy-okrtx4)
+Check out the [live demo](https://www.youtube.com/watch?v=48IuX9_LEvE&feature=youtu.be)!
+
 ## What it does
 
 Study Buddy is a website that connects students with tutors who choose to volunteer their time to support better education within their community. Our algorithms help students find the perfect tutor who is skilled at the topic they are looking for, but also who has hobbies and interests in common with the student. Students and tutors can have conversations with our live chat feature.
