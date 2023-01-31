@@ -4,6 +4,7 @@ Study Buddy was made in under 24 hours for the MinneHack2023 Hackathon from Janu
  ![Buddy](https://user-images.githubusercontent.com/114538661/215340197-b41f243f-29bf-4ea8-a028-5774e8c31bea.png)
 
 Team Members: Liem Tran, Thomas Weber, Evan Pochtar, Anthony Brogni
+Check out the [live demo](https://www.youtube.com/watch?v=48IuX9_LEvE&feature=youtu.be)!
 
 ## Instructions for Running this Project:
 1.) Clone this repository locally
@@ -28,8 +29,6 @@ An important facet of civic participation is volunteering and elevating everyone
 
 “Education is a public good as well as a personal one, and that civic duty and personal advantage go hand in hand.”
 
-[Devpost](https://devpost.com/software/studybuddy-okrtx4)
-Check out the [live demo](https://www.youtube.com/watch?v=48IuX9_LEvE&feature=youtu.be)!
 
 ## What it does
 
